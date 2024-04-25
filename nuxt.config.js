@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'tailwind-nuxt-2',
+    title: 'Rick & Morty',
     htmlAttrs: {
       lang: 'en',
     },
